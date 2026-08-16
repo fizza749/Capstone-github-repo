@@ -1,4 +1,4 @@
-# Claude.md
+# CLAUDE.md
 
 ## Project Overview
 This is a capstone project repository created as part of the AI-assisted development track.
